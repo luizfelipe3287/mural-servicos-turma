@@ -1,4 +1,13 @@
 # Mural de Servicos da Turma
+
+
+# Alunos
+Fabio
+Luis
+Eduardo Oliveira
+
+
+
 Projeto didatico para praticar Git, GitHub, branches, commits,
 pull requests, revisao de codigo, build automatico e deploy.
 ## Papeis
